@@ -1,5 +1,4 @@
 # ADM-hw3
---------------------------
 
 **Group memebers:**
 1. Tansel Simsek
