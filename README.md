@@ -14,7 +14,7 @@ In this repository we reproduce the structure of our working directory:
 
 -----------------
 
-Additional info on the analysis:
+Additional info:
 
 Directory *all_pages* \
 it contains the downloaded html pages. 
